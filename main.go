@@ -8,4 +8,7 @@ func main() {
 	RunStringExample()
 	RunMapExample()
 	RunStructExample()
+	RunShadowingExample()
+	RunControlIFStructures()
+	RunControlForExamples()
 }
