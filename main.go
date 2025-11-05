@@ -11,4 +11,6 @@ func main() {
 	RunShadowingExample()
 	RunControlIFStructures()
 	RunControlForExamples()
+	RunFunctionsExamples()
+	RunCalculatorExample()
 }
