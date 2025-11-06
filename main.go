@@ -13,4 +13,5 @@ func main() {
 	RunControlForExamples()
 	RunFunctionsExamples()
 	RunCalculatorExample()
+	RunPointerExamples()
 }
