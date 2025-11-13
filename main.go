@@ -14,4 +14,8 @@ func main() {
 	RunFunctionsExamples()
 	RunCalculatorExample()
 	RunPointerExamples()
+	ExPointerHeap()
+	RunMethodsExample()
+	RunEnumIotaExample()
+	RunCompositionExample()
 }
