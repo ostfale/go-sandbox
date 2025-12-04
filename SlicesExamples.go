@@ -94,7 +94,3 @@ func RunSlicesExamples() {
 	fmt.Println(smallArray)
 
 }
-
-func sep(title ...string) {
-	fmt.Printf("\n\n-------------------- %s --------------------\n", title)
-}
