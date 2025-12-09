@@ -9,6 +9,8 @@ func main() {
 	GoTypeConstants()
 	GoTypesCustomTypes()
 	GoTypesEnums()
+	GoTypesEnumJSon()
+	GoTypesMaps()
 	//RunSlicesExamples()
 	//RunStringExample()
 	//RunMapExample()
